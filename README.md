@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preciousnwaoha
-- 👀 I’m interested in Web/Web3 Development
+- 👀 I’m interested in Web Developement & Blockchain Development
 - 🌱 I’m currently learning Mobile App Development
-- 💞️ I’m looking to collaborate on Web3 Projects
+- 💞️ I’m looking to collaborate on Web/Web3 Projects
 - 📫 How to reach me ...nwaohaprecious25@gmail.com
 <!-- - 👨‍💻 All of my projects are available at [https://preciousnwaoha.github.io](https://preciousnwaoha.github.io) -->
 
