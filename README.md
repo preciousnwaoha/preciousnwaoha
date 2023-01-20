@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on Web/Web3 Projects
 - 📫 How to reach me ...nwaohaprecious25@gmail.com
-- 🎄 Linktr <a href="https://linktr.ee/preciousnwaoha" target="blank" color="blue" >Linktr.ee</a>
+- 🎄 My <a href="https://linktr.ee/preciousnwaoha" target="blank" color="blue" >Linktr.ee</a>
 <!-- - 👨‍💻 All of my projects are available at [https://preciousnwaoha.github.io](https://preciousnwaoha.github.io) -->
 
 <!-- - 💬 Ask me about **next.js, solidity, node.js** -->
