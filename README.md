@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on Web/Web3 Projects
 - 📫 How to reach me ...nwaohaprecious25@gmail.com
+- 🎄 Linktr <a href="https://linktr.ee/preciousnwaoha" target="blank" color="blue" >Linktr.ee</a>
 <!-- - 👨‍💻 All of my projects are available at [https://preciousnwaoha.github.io](https://preciousnwaoha.github.io) -->
 
 <!-- - 💬 Ask me about **next.js, solidity, node.js** -->
@@ -11,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/pinqode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pinqode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/preciousnwaoha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preciousnwaoha04" height="30" width="40" /></a>
-<a href="https://instagram.com/pinqoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinqoder" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/pinqoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinqoder" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
