@@ -1,6 +1,6 @@
-### 👋 gm! I'm Steph aka [pinqode](https://twitter.com/pinqode)
+### 👋 gm! I'm Precious aka [pinqode](https://twitter.com/pinqode)
 - 👨‍💻 I am a Web & Blockchain Developer
-- 🌱 I’m currently learning Mobile App Development and interested in Opensource, AI and Edtech.
+- 🌱 I’m interested in Opensource, AI and Edtech.
 - 💞️ I’m looking to collaborate on Web/Web3 Projects
 - 📫 You can reach me at ...nwaohaprecious25@gmail.com
 - 🎄 My <a href="https://linktr.ee/preciousnwaoha" target="blank" color="blue" >Linktr.ee</a>
