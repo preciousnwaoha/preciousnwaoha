@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @preciousnwaoha
-- 👀 I’m interested in Web Developement & Blockchain Development
-- 🌱 I’m currently learning Mobile App Development
+### 👋 gm! I'm Steph aka [pinqode](https://twitter.com/pinqode)
+- 👨‍💻 I am a Web & Blockchain Developer
+- 🌱 I’m currently learning Mobile App Development and interested in Opensource, AI and Edtech.
 - 💞️ I’m looking to collaborate on Web/Web3 Projects
-- 📫 How to reach me ...nwaohaprecious25@gmail.com
+- 📫 You can reach me at ...nwaohaprecious25@gmail.com
 - 🎄 My <a href="https://linktr.ee/preciousnwaoha" target="blank" color="blue" >Linktr.ee</a>
 <!-- - 👨‍💻 All of my projects are available at [https://preciousnwaoha.github.io](https://preciousnwaoha.github.io) -->
 
