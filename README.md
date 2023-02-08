@@ -1,7 +1,7 @@
 ### 👋 gm! I'm Precious aka [pinqode](https://twitter.com/pinqode)
 - 👨‍💻 I am a Web & Blockchain Developer
-- 🌱 I’m interested in Opensource, AI and Edtech.
-- 💞️ I’m looking to collaborate on Web/Web3 Projects
+- 🌱 I’m interested in Opensource, AI, Game Dev, Useful Fintech and Edtech.
+- 💞️ looking to collaborate on Web/Web3 Projects
 - 📫 You can reach me at ...nwaohaprecious25@gmail.com
 - 🎄 My <a href="https://linktr.ee/preciousnwaoha" target="blank" color="blue" >Linktr.ee</a>
 <!-- - 👨‍💻 All of my projects are available at [https://preciousnwaoha.github.io](https://preciousnwaoha.github.io) -->
