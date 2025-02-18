@@ -1,7 +1,7 @@
-### 👋 gm! I'm Precious aka [pinqode](https://twitter.com/pinqode)
-- 👨‍💻 I am a Web & Blockchain Developer
-- 🌱 I’m interested in Opensource, AI, Game Dev, Useful Fintech and Edtech.
-- 💞️ looking to collaborate on Web/Web3 Projects
+### 👋 gm! I'm Precious aka [Qode](https://twitter.com/_preciousnwaoha)
+- 👨‍💻 I am a Fullstack Developer (Web, Mobile, & Blockchain)
+- 🌱 I’m interested in Opensource, AI, Docs, Game Dev, Useful Fintech and Edtech.
+- 💞️ looking to collaborate on groundbreaking projects
 - 📫 You can reach me at ...nwaohaprecious25@gmail.com
 - 🎄 My <a href="https://linktr.ee/preciousnwaoha" target="blank" color="blue" >Linktr.ee</a>
 <!-- - 👨‍💻 All of my projects are available at [https://preciousnwaoha.github.io](https://preciousnwaoha.github.io) -->
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pinqode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pinqode" height="30" width="40" /></a>
+<a href="https://twitter.com/_preciousnwaoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pinqode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/preciousnwaoha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preciousnwaoha04" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/pinqoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinqoder" height="30" width="40" /></a> -->
 </p>
