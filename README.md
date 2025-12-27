@@ -1,5 +1,5 @@
 ### 👋 gm! I'm Precious aka [Qode](https://twitter.com/_preciousnwaoha)
-- 👨‍💻 I am a Fullstack Developer (Web, Mobile, & Blockchain)
+- 👨‍💻 I am a Fullstack Preoduct Engineer (AI, Web, Mobile, & Blockchain)
 - 🌱 I’m interested in Opensource, AI, Docs, Game Dev, Useful Fintech and Edtech.
 - 💞️ looking to collaborate on groundbreaking projects
 - 📫 You can reach me at ...nwaohaprecious25@gmail.com
